@@ -15,5 +15,6 @@ Tech Stack used:
 5. MongoDB
 
 This site is hosted on https://render.com.
+
 In DailyNotes application, a company can assign daily tasks to their employees and see the updates on the particular tasks. Only manager and admin are able to view all tasks assigned to the employees and all the employee details. But employees can see only their notes and nothing else.
 
