@@ -10,7 +10,10 @@ Here are some of the screenshots from the website
 Tech Stack used:
 1. Reactjs
 2. Redux and RTK query
-3. Expressjs
-4. MongoDB
+3. Nodejs
+4. Expressjs
+5. MongoDB
 
 This site is hosted on render.com
+In DailyNotes application, a company can assign daily tasks to their employees and see the updates on the particular tasks. Only manager and admin are able to view all tasks assigned to the employees and all the employee details. But employees can see only their notes and nothing else.
+
