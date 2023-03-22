@@ -18,3 +18,4 @@ This site is hosted on https://render.com.
 
 In DailyNotes application, a company can assign daily tasks to their employees and see the updates on the particular tasks. Only manager and admin are able to view all tasks assigned to the employees and all the employee details. But employees can see only their notes and nothing else.
 
+In employee Login, type USERNAME: Jatin and PASSWORD: sahej1234 for admin and manager login, if you want to login as an employee then type USERNAME: Azimbhai and PASSWORD: sahej1234.
